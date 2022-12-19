@@ -10,3 +10,4 @@ Seriously, there's nothing here 🤦.
   - [Branch To Repository](https://stackoverflow.com/a/2227571)  
   - [Clone specific branch only](https://stackoverflow.com/a/9920956)  
   - [Delete branch locally & remotely](https://stackoverflow.com/a/2003515)  
+  - [Reset to commit locally & remotely](https://stackoverflow.com/a/5816761)
